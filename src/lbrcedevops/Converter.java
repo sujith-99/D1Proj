@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CurrencyConverter {
+public class Converter {
 
     public static void main(String[] args) {
         // Predefined exchange rates
